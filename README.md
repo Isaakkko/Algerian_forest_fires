@@ -88,7 +88,7 @@ El archivo `cargador_datos.py` centraliza la lógica de carga y preparación de 
 - **Isaac Ulloa Calvo**  
 - **Tiffany Méndez Quirós**  
 - **Edward Vindas Rivera**  
-
+- **Jean Carlo Ramírez Carranza** 
 ---
 
 ## 📌 Notas Finales
