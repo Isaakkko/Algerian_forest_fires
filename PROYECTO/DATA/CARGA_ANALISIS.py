@@ -1,5 +1,4 @@
 # Clase cargador_datos
-# Proyecto 2 - Programación II
 
 # Este script implementa una clase encargada de cargar un archivo CSV
 # y calcular información básica sobre su estado:
